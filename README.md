@@ -1,6 +1,6 @@
 # Testnets
 
-This repo contains genesis files for the [Evmos](https://github.com/tharsis/evmos) Testnets.
+This repo contain genesis files for the [Evmos](https://github.com/tharsis/evmos) Testnets.
 
 The latest testnet is [Olympus Mons](./olympus_mons). You can find a list of [seeds](https://docs.tendermint.com/master/tendermint-core/using-tendermint.html#seed) and [peers](https://docs.tendermint.com/master/tendermint-core/using-tendermint.html#persistent-peer) to connect to in the respective directory.
 
